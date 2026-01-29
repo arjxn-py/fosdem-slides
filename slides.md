@@ -189,7 +189,7 @@
   </h2>
 
   <p style="text-align:center; font-size:1.6rem; margin-top:1rem;">
-    Notebooks are <strong>collaborative</strong>, <strong>reproducible</strong> computational documents.
+    Notebooks are <strong>reproducible</strong> computational documents.
   </p>
 
   <div style="display:flex; align-items:center; justify-content:center; gap:3rem; margin-top:2.5rem;">
@@ -198,7 +198,6 @@
 <ul style="flex:1; list-style-type:disc; font-size:1.4rem; line-height:1.8;">
     <li>Code, data, outputs, and narrative in one place</li>
     <li>Shareable, reproducible workflows</li>
-    <li>Real-time collaboration</li>
     <li>Runs on desktop and in the browser</li>
 </ul>
 
@@ -208,7 +207,7 @@
         alt="JupyterLab notebook"
         style="max-height:22rem; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.2);" />
     <p style="font-size:1rem; margin-top:0.5rem;">
-    Code • Output • Markdown • Collaboration
+    Code • Output • Markdown
     </p>
 </div>
 
@@ -225,7 +224,7 @@
 
 <section>
   <h2 style="text-align:center; margin-top:0.5rem;">
-    What if GIS were a first-class citizen in JupyterLab?
+    What if GIS was a first-class citizen in JupyterLab?
   </h2>
 
   <p style="text-align:center; font-size:1.6rem; margin-top:1rem;">

@@ -1,6 +1,6 @@
 <section>
   <h2 style="text-align:center; margin-top:0.5rem;">
-    What if GIS were a first-class citizen in JupyterLab?
+    What if GIS was a first-class citizen in JupyterLab?
   </h2>
 
   <p style="text-align:center; font-size:1.6rem; margin-top:1rem;">
