@@ -1,7 +1,7 @@
 <!-- .slide: class="section-with-footer" -->
 
 <!-- Heading -->
-<div style="text-align: center; margin: 0.5rem 0 1rem;">
+<!-- <div style="text-align: center; margin: 0.5rem 0 1rem;">
   <h2>About Us</h2>
 </div>
 
@@ -27,4 +27,4 @@
     </div>
   </div>
 
-</div>
+</div> -->

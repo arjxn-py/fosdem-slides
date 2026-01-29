@@ -1,32 +1,34 @@
 <!-- .slide -->
 <div style="text-align: left; line-height: 1.2; position: relative;">
 
-  <h3 style="font-size: 1.5em; margin: 0; text-transform: none;">
-    Collaborative
-    <a href="https://jupytercad.github.io/JupyterCAD/lab/index.html" target="_blank">
-      <img src="images/jcad.png" alt="JCAD" style="height: 1em; vertical-align: middle; margin-right: 0.2em;" />
-    </a>
-    CAD and
+  <h2 style="font-size: 1.6em; margin: 0; font-weight: 600;">
+    JupyterGIS - Interactive, Collaborative, <br/>
+    Client-Side GIS in JupyterLab
     <a href="https://jupytergis.readthedocs.io/en/latest/lite/lab/" target="_blank">
-      <img src="images/jgis.png" alt="JGIS" style="height: 1em; vertical-align: middle; margin-left: 0.2em; margin-right: 0.2em;" />
+      <img src="images/jgis.png" alt="JupyterGIS" 
+           style="height: 1em; vertical-align: middle; margin-left: 0.3em;" />
     </a>
-    GIS editing in JupyterLab
-    <img src="images/jupyter.svg" alt="Jupyter" style="height: 1em; vertical-align: middle; margin-left: 0.4em;" />
-    <img src="images/jupyterlite.png" alt="JupyterLite" style="height: 1em; vertical-align: middle; margin-left: 0.2em;" />
-  </h3>
+  </h2>
 
-  <p style="font-style: italic; margin-top: 0.5em;">Arjun Verma and Martin Renou</p>
-  <div style="margin-top: 0.5em;">
-    <img src="images/logo-qs.svg" alt="QuantStack" style="height: 3em; vertical-align: middle;" />
+  <p style="margin-top: 0.6em; font-size: 0.9em;">
+    Arjun Verma · QuantStack
+  </p>
+
+  <div style="margin-top: 0.8em;">
+    <img src="images/logo-qs.svg" alt="QuantStack" 
+         style="height: 2.6em; vertical-align: middle;" />
+    <img src="images/jupyter.svg" alt="Jupyter" 
+         style="height: 2.6em; vertical-align: middle; margin-left: 0.6em;" />
+    <img src="images/jupyterlite.png" alt="JupyterLite" 
+         style="height: 2.6em; vertical-align: middle; margin-left: 0.3em;" />
   </div>
 
   <!-- QR Code -->
   <img src="images/slide-qr.svg" 
        alt="QR Code" 
-       style="position: absolute; bottom: 1rem; right: 1rem; height: 15rem;" />
+       style="position: absolute; bottom: 1rem; right: 1rem; height: 13rem;" />
 </div>
 <!-- .slide: data-transition="zoom" -->
-
 
 
 ---
@@ -34,7 +36,7 @@
 <!-- .slide: class="section-with-footer" -->
 
 <!-- Heading -->
-<div style="text-align: center; margin: 0.5rem 0 1rem;">
+<!-- <div style="text-align: center; margin: 0.5rem 0 1rem;">
   <h2>About Us</h2>
 </div>
 
@@ -60,7 +62,7 @@
     </div>
   </div>
 
-</div>
+</div> -->
 
 
 ---
@@ -200,51 +202,6 @@
 
   </div>
 </section>
-
-
-
-
-
-
-
-
-<!-- Slide 2: Visual Meme / Contrast -->
-<!-- <section>
-  <div style="display: flex; gap: 2rem; align-items: flex-start; justify-content: center;">
-    <div style="flex: 1; text-align: center;">
-      <h3 style="color: #7a7a7aff;">🚨 Desktop Tools</h3>
-      <img src="images/qgis-error.png" alt="Install error screenshot"
-           style="max-width: 100%; max-height: 40vh; border: 2px solid #e74c3c; border-radius: 6px;" />
-      <p style="font-size: 0.9em; color: #aaa; margin-top: 0.5rem;">
-        GB-sized installs • plugin hell • version mismatches
-      </p>
-    </div>
-    <div style="flex: 1; text-align: center;">
-      <h3 style="color: #27ae60;">✅ Browser-Native</h3>
-      <img src="images/jgis.png" alt="Browser-based GIS"
-           style="max-width: 100%; max-height: 40vh; border: 2px solid #27ae60; border-radius: 6px;" />
-      <p style="font-size: 0.9em; color: #aaa; margin-top: 0.5rem;">
-        Open a link • clean UI • collaborative & reproducible
-      </p>
-    </div>
-  </div>
-</section> -->
-
-<!-- Slide 3: Solution Intro -->
-<!-- <section>
-  <h2>CAD & GIS in the Browser</h2>
-  <p class="fragment">
-    <strong>JupyterCAD</strong> + <strong>JupyterGIS</strong> → CAD & spatial computing inside Jupyter
-  </p>
-  <p class="fragment">
-    Powered by <strong>WebAssembly</strong> + <strong>Jupyter CRDTs</strong> → runs anywhere, any kernel, zero installs
-  </p>
-  <div class="fragment" style="margin-top: 1rem; display: flex; gap: 1rem; justify-content: center;">
-    <img src="images/jupyterlite.png" alt="JupyterLite" style="height: 3rem;" />
-    <img src="images/jcad.png" alt="JupyterCAD" style="height: 3rem;" />
-    <img src="images/jgis.png" alt="JupyterGIS" style="height: 3rem;" />
-  </div>
-</section> -->
 
 
 ---
