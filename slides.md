@@ -229,7 +229,7 @@
   </h2>
 
   <p style="text-align:center; font-size:1.6rem; margin-top:1rem;">
-    What if spatial layers behaved like notebook cells?
+    What if GIS documents were collaboratively editable like Jupyter notebooks?
   </p>
 
   <div style="display:flex; justify-content:center; align-items:center; gap:3rem; margin-top:3rem;">
@@ -242,12 +242,6 @@
 
   </div>
 
-  <ul style=" margin-top:2rem; font-size:1.3rem; list-style:disc;">
-    <li>Not files on disk</li>
-    <li>Not screenshots in reports</li>
-    <li>But live, shared computational objects</li>
-  </ul>
-
   <aside class="notes">
     This is the core question behind JupyterGIS.
     We didn't want another plugin — we wanted a new model.
@@ -257,7 +251,7 @@
 
 ---
 
-<section>
+<!-- <section>
   <h3>About JupyterCAD</h3>
   <ul>
     <li >Browser-native 3D modeling for JupyterLab</li>
@@ -446,20 +440,10 @@
     const video = document.getElementById('jupytercad-mcp-video');
     video.playbackRate = 2.0;
   </script>
-</section>
+</section> -->
 
 
 ---
-
-<section>
-  <h3>About JupyterGIS</h3>
-  <ul>
-    <li >A full-featured GIS toolkit inside JupyterLab</li>
-    <li >Supports raster and vector layers</li>
-    <li >Built with <strong>OpenLayers</strong> + <strong>GDAL</strong> (WebAssembly)</li>
-  </ul>
-</section>
-
 
 <section>
   <h2 style="text-transform: none;">

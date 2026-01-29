@@ -4,7 +4,7 @@
   </h2>
 
   <p style="text-align:center; font-size:1.6rem; margin-top:1rem;">
-    What if spatial layers behaved like notebook cells?
+    What if GIS documents were collaboratively editable like Jupyter notebooks?
   </p>
 
   <div style="display:flex; justify-content:center; align-items:center; gap:3rem; margin-top:3rem;">
@@ -16,12 +16,6 @@
   <img src="images/collaboration-icon.png" style="height:6rem;" />
 
   </div>
-
-  <ul style=" margin-top:2rem; font-size:1.3rem; list-style:disc;">
-    <li>Not files on disk</li>
-    <li>Not screenshots in reports</li>
-    <li>But live, shared computational objects</li>
-  </ul>
 
   <aside class="notes">
     This is the core question behind JupyterGIS.

@@ -1,14 +1,4 @@
 <section>
-  <h3>About JupyterGIS</h3>
-  <ul>
-    <li >A full-featured GIS toolkit inside JupyterLab</li>
-    <li >Supports raster and vector layers</li>
-    <li >Built with <strong>OpenLayers</strong> + <strong>GDAL</strong> (WebAssembly)</li>
-  </ul>
-</section>
-
-
-<section>
   <h2 style="text-transform: none;">
     JupyterGIS
     <img

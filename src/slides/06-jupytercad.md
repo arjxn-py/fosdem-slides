@@ -1,4 +1,4 @@
-<section>
+<!-- <section>
   <h3>About JupyterCAD</h3>
   <ul>
     <li >Browser-native 3D modeling for JupyterLab</li>
@@ -187,4 +187,4 @@
     const video = document.getElementById('jupytercad-mcp-video');
     video.playbackRate = 2.0;
   </script>
-</section>
+</section> -->
