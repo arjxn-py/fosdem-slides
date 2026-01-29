@@ -220,6 +220,29 @@
 </section>
 
 
+<section>
+  <h2 style="text-align:center; font-size:2.5rem; margin-top:0.5rem;">
+    Jupyter Collaboration
+  </h2>
+
+  <!-- Bullets on top -->
+  <ul style="list-style-type:disc; font-size:1.6rem; line-height:2; margin:2rem auto; max-width:700px;">
+    <li>Live multi-user editing</li>
+    <li>Real-time updates</li>
+    <li>No file conflicts</li>
+  </ul>
+
+  <!-- Image below -->
+  <div style="width:90%; text-align:center; margin:0 auto;">
+    <img src="images/jupyter-collab.png"
+        alt="Jupyter real-time collaboration"
+        style="width:100%; height:auto; border-radius:6px; box-shadow:0 4px 8px rgba(0,0,0,0.2);" />
+    <p style="font-size:1.3rem; margin-top:0.5rem;">Live cursors • Shared outputs • Real-time sync</p>
+  </div>
+</section>
+
+
+
 ---
 
 <section>
