@@ -380,6 +380,29 @@
   </p>
 </section>
 
+<section>
+  <div style="text-align:center; margin-bottom:1rem;">
+    <h3 style="text-transform:none; margin:0;">
+      Full JupyterGIS Environment
+    </h3>
+    <p style="font-size:1.4rem; opacity:0.8;">
+      Live JupyterLab with JupyterGIS
+    </p>
+  </div>
+
+  <iframe
+    src="https://arjxn-py.github.io/myp/lab/index.html"
+    style="
+      border:none;
+      width:100vw;
+      height:80vh;
+      transform:scale(0.9);
+      transform-origin:top center;
+    "
+  ></iframe>
+</section>
+
+
 <!-- Vertical stack for features -->
 <section>
   <div style="display: flex; justify-content: center; align-items: center; gap: 1rem; margin-bottom: 1rem;">
@@ -665,6 +688,34 @@
     style="max-width: 90%; margin-top: 1rem;"
   ></video>
 </section>
+
+<section>
+  <h2 style="text-align:center; font-size:2.8rem; margin-bottom:1rem;">
+    📖 JupyterGIS StoryMaps (in progress)
+  </h2>
+
+  <p style="text-align:center; font-size:1.6rem; max-width:900px; margin:0 auto 2rem;">
+    Compose interactive geospatial narratives by combining
+    <strong>maps, text, and live data</strong>.
+  </p>
+
+  <div style="text-align:center;">
+    <video
+      src="video/jgis/jgis-storymap.mp4"
+      autoplay
+      loop
+      muted
+      playsinline
+      style="max-width: 90%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.2);"
+    ></video>
+  </div>
+
+  <aside class="notes">
+    This is our vision for taking reproducible GIS beyond analysis:
+    into communication, storytelling, and decision-making.
+  </aside>
+</section>
+
 
 
 ---
