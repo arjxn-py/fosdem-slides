@@ -716,6 +716,32 @@
   </aside>
 </section>
 
+<section>
+  <h2 style="text-align:center; font-size:2.8rem; margin-bottom:1rem;">
+    🤖 LLM-powered GIS (in progress)
+  </h2>
+
+  <p style="text-align:center; font-size:1.6rem; max-width:900px; margin:0 auto 2rem;">
+    Use natural language to explore, transform, and explain geospatial data
+    inside JupyterGIS.
+  </p>
+
+  <div style="text-align:center;">
+    <video
+      src="video/jgis/jgis-llm.mp4"
+      autoplay
+      loop
+      muted
+      playsinline
+      style="max-width: 90%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.2);"
+    ></video>
+  </div>
+
+  <aside class="notes">
+    This is about lowering the barrier to GIS.
+    Instead of learning tools first, users start with questions.
+  </aside>
+</section>
 
 
 ---
