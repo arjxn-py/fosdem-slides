@@ -360,6 +360,26 @@
 
 ---
 
+<section>
+  <h1 style="
+    text-align:center;
+    font-size:6rem;
+    letter-spacing:0.2rem;
+    margin-top:20vh;
+  ">
+    DEMO
+  </h1>
+
+  <p style="
+    text-align:center;
+    font-size:1.8rem;
+    margin-top:1rem;
+    opacity:0.8;
+  ">
+    JupyterGIS in action
+  </p>
+</section>
+
 <!-- Vertical stack for features -->
 <section>
   <div style="display: flex; justify-content: center; align-items: center; gap: 1rem; margin-bottom: 1rem;">
@@ -649,16 +669,6 @@
 
 ---
 
-<section>
-  <h2 style="text-transform: none;">Web Tech Under the Hood</h2>
-  <ul>
-    <li><strong>JupyterLab plugin</strong></li>
-    <li><strong>PyCRDT + Y.js for collaboration</strong></li>
-    <li><strong>WebAssembly (WASM) for processing</strong></li>
-    <li><strong>Open Layers for visualization</strong></li>
-  </ul>
-</section>
-
 <section style="position: relative; overflow: hidden;">
   <h2 style="text-transform: none;">JupyterLite support</h2>
   <ul>
@@ -669,8 +679,7 @@
       <li>Conda distribution <strong>emscripten-forge</strong></li>
       <li>WASM-based GDAL for processing</li>
     </ul>
-    <li>All demos today were made on JupyterLite!</li>
-    <li><strong>Check out the JupyterLite presentation at noon in this room!</strong></li>
+    <li>All live demos today were made on JupyterLite!</li>
   </ul>
 
   <img

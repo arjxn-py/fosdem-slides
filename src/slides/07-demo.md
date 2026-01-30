@@ -1,3 +1,23 @@
+<section>
+  <h1 style="
+    text-align:center;
+    font-size:6rem;
+    letter-spacing:0.2rem;
+    margin-top:20vh;
+  ">
+    DEMO
+  </h1>
+
+  <p style="
+    text-align:center;
+    font-size:1.8rem;
+    margin-top:1rem;
+    opacity:0.8;
+  ">
+    JupyterGIS in action
+  </p>
+</section>
+
 <!-- Vertical stack for features -->
 <section>
   <div style="display: flex; justify-content: center; align-items: center; gap: 1rem; margin-bottom: 1rem;">
