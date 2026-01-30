@@ -324,6 +324,40 @@
 </section>
 
 
+<section>
+  <h2 style="text-align:center; margin-top:0.5rem;">
+    How JupyterGIS Works
+  </h2>
+
+  <div style="display:flex; justify-content:center; align-items:flex-start; gap:2rem; flex-wrap:wrap; margin-top:2rem;">
+    <!-- Rendering -->
+    <div style="flex:1; min-width:220px; text-align:center;">
+      <img src="images/openlayers.png" alt="Rendering" style="max-width:8rem; margin-bottom:0.5rem;" />
+      <h3>Rendering</h3>
+      <p>OpenLayers in-browser: vector & raster, dynamic styling</p>
+    </div>
+
+  <!-- Analysis -->
+  <div style="flex:1; min-width:220px; text-align:center;">
+    <img src="images/gdal.svg" alt="Analysis" style="max-width:8rem; margin-bottom:0.5rem;" />
+    <h3>Analysis</h3>
+    <p>GDAL compiled to WebAssembly - buffer, dissolve, rasterization, etc.</p>
+  </div>
+
+  <!-- Collaboration -->
+  <div style="flex:1; min-width:220px; text-align:center;">
+    <img src="images/collaboration-icon.png" alt="Collaboration" style="max-width:8rem; margin-bottom:0.5rem;" />
+    <h3>Collaboration</h3>
+    <p>Y.js CRDTs - live multi-user editing, conflict-free synchronization</p>
+  </div>
+  </div>
+
+  <aside class="notes">
+    Explain how these three components work together, and the .jgis file is the shared source of truth enabling fully interactive, collaborative GIS.
+  </aside>
+</section>
+
+
 ---
 
 <!-- Vertical stack for features -->
