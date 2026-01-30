@@ -749,6 +749,7 @@
 <section style="position: relative; overflow: hidden;">
   <h2 style="text-transform: none;">JupyterLite support</h2>
   <ul>
+    <li>All live demos today were made on JupyterLite!</li>
     <li>Works in full JupyterLite setup</li>
     <li>Enables install-free use of JupyterGIS</li>
     <ul>
@@ -756,7 +757,6 @@
       <li>Conda distribution <strong>emscripten-forge</strong></li>
       <li>WASM-based GDAL for processing</li>
     </ul>
-    <li>All live demos today were made on JupyterLite!</li>
   </ul>
 
   <img
@@ -783,8 +783,7 @@
   
   <div>🌍 <strong>Environmental Science</strong><br><span style="color:#555;">Analyze climate or land-use patterns</span></div>
   <div>🌊 <strong>Geoscience</strong><br><span style="color:#555;">Map terrain, water or seismic data</span></div>
-  <div>🛠️ <strong>Engineering</strong><br><span style="color:#555;">Parametric CAD models in notebooks</span></div>
-  <div>📐 <strong>Education</strong><br><span style="color:#555;">Teach CAD/GIS with no installs</span></div>
+  <div>📐 <strong>Education</strong><br><span style="color:#555;">Teach GIS with no installs</span></div>
   <div>⚡ <strong>R&D</strong><br><span style="color:#555;">Prototype & share browser-native apps</span></div>
   <div>🧑‍🤝‍🧑 <strong>Collaboration</strong><br><span style="color:#555;">Design reviews in the browser</span></div>
 
@@ -799,13 +798,6 @@
   <h3 style="text-align:center; margin-bottom:2.5rem;">We have many ideas, help us make them real!</h3>
 
   <div style="display:grid; grid-template-columns:1fr 1fr; gap:2rem; font-size:2.2rem; line-height:1.6;">
-  <div style="transform:rotate(-2deg) translateY(-5px); background:#fef9f5; padding:1.5rem 2rem; border-radius:1rem; font-size:1.7rem; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
-    <strong>MCP Server Extension</strong>
-  </div>
-
-  <div style="transform:rotate(1.5deg) translateY(8px); background:#f5fbff; padding:1.5rem 2rem; border-radius:1rem; font-size:1.7rem; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
-    <strong>Story Maps</strong>
-  </div>
 
   <div style="transform:rotate(-1deg) translateY(4px); background:#f9f5ff; padding:1.5rem 2rem; border-radius:1rem; font-size:1.7rem; box-shadow:0 4px 12px rgba(0,0,0,0.12);">
     <strong>Suggestions Support</strong><br>(Split view comparison)

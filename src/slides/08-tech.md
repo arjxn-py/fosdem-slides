@@ -1,6 +1,7 @@
 <section style="position: relative; overflow: hidden;">
   <h2 style="text-transform: none;">JupyterLite support</h2>
   <ul>
+    <li>All live demos today were made on JupyterLite!</li>
     <li>Works in full JupyterLite setup</li>
     <li>Enables install-free use of JupyterGIS</li>
     <ul>
@@ -8,7 +9,6 @@
       <li>Conda distribution <strong>emscripten-forge</strong></li>
       <li>WASM-based GDAL for processing</li>
     </ul>
-    <li>All live demos today were made on JupyterLite!</li>
   </ul>
 
   <img
